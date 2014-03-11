@@ -1,19 +1,20 @@
-Übercaster: A Real-Time Audio Broadcaster Hotspot
+##Übercaster: A Real-Time Audio Broadcaster Hotspot
 
-K.J Yoo <KJ@EchosDesign.com>, 
-Roman Belda <robelor@gmail.com>
-Emanuel Aguilera Martí <emaguimar@hotmail.com>
-Artem Bagautdinov <artem.bagautdinov@gmail.com>
 
-Inception
+####K.J Yoo <KJ@EchosDesign.com>, 
+####Roman Belda <robelor@gmail.com>
+####Emanuel Aguilera Martí <emaguimar@hotmail.com>
+####Artem Bagautdinov <artem.bagautdinov@gmail.com>
+
+##Inception
 
 The year was 2010. On the streets of the altstadt in Marburg, Germany, I was playing the violin as street musician. Some found my music distracting and yet some found it beautiful. As a curious engineering student, I thought about a better medium to present my music so that only those who were interested may hear what I played seamlessly. After realizing FM transmitter systems were quite expensive, bulky, old and simply not practical. I decided to take matter into my own hands. The solution was simple: broadcast audio to people’s favorite device, the smartphone. 
 
-Design Goal
+##Design Goal
 
 I wanted anyone to easily plug in any audio into the Übercaster; whether it came from an instrument, TV, iPod or microphone, it didn’t matter. The Übercaster starts broadcasting the sound locally. Then multiple listeners would use their smartphone devices to connect to the Übercaster like a Wi-Fi hotspot to “tune-in.” I also wanted the Übercaster to be an elegant and intuitive device in-line with Dieter Ram’s 10 Principles of Good Design. 
 
-In Development
+##In Development
 
 I have been developing the Übercaster with Odroid X2/U2/U3 development boards since August 2013. I will now share how the Übercaster fundamentally functions.
 
@@ -27,20 +28,13 @@ Now at a first glance, it seems like a basic streaming application like VLC or I
 
 So how many clients can the Übercaster support? I have tested up to 25 clients, however it is theoretically possible to have many more. After server-client relationship is established, the Übercaster is basically a one-way system. The Übercaster broadcasts UDP-based packets and the clients merely tune in on an ip address. That is it. However there is a trade off: UDP isn’t always reliable, however it delivers packets faster and more efficient than TCP because it uses non-ack. This is why the Übercaster sends in small packet frame sizes to hedge against high packet loss rate, which gives a smoother playback. 
 
-Demonstration Video
-
-Please view the following demonstration of the Übercaster.
-
-Übercaster Zwei: vimeo.com/85006122
-Übercaster Drei:  vimeo.com/88467399 
-
-Dealing with Interesting Issues
+##Dealing with Interesting Issues
 
 1. To reduce frequency interference, I am mainly using 802.11n at the 5Ghz band. The 2.4Ghz never works even in a moderately crowded area. Using the 5Ghz band, the range is shorter and requires a bit more power, but it is very stable. Hence at CES 2014 in Las Vegas, I had no problem making demonstration in the middle of the densely packed South Hall. (It will be very interesting to work with an 802.11ac module very soon!)
 
 2. To tackle reducing Latency, I use Opus, SPSC Circular Queue and a custom protocol that is based on UDP. I tried RTMP, RTSP and HTTP, but it really didn't work out for me. Originally I wanted to use VLC or other RTSP client to stream content on client devices, but the latency was very high. This is why I chose to go with native apps. The apps are very light and I am currently creating an API that is very easy for mobile developers to integrate the Übercaster stream function. Quick tip concerning Android: it is important to match the sample rate and buffer size for minimum latency. Check this interesting talk from Google I/O 2013 about High Performance Audio on Android. (https://www.youtube.com/watch?v=d3kfEeMZ65c)
 
-The Application
+##The Application
 
 Übercaster started with a simple question: How can individuals have complete freedom and seamless control what they hear in a local surrounding? Or how can individuals have complete freedom to seamlessly and easily broadcast sound to audience members in the local surrounding? 
 
@@ -52,11 +46,9 @@ Imagine going into a sports bar and listening to any TV or tuning into the break
 
 Übercaster not only offers a richer and higher audio quality than current products, but also it makes an incredible seamless experience for both users and listeners. Übercaster simplifies, reduces and enhances local audio broadcasting into just a single device. 
 
-The Vision 
+##The Vision 
 
 Sound is a stepping-stone for me to test if local public content distribution works. I want to broadcast video in real-time. I think of the future a lot and it is clear that frequency band is getting crowded; people want more bandwidth, faster information. However I think in public spaces, there are too many data/bit redundancies. If a lot people in a public area are interested in knowing more about say the Real Madrid game, it is redundant for their devices to access information from the same server a thousand miles away in Texas or California. TVs in a public area are in essence a form of local broadcast. People within 50 feet see the TV. However I am not satisfied with how it works currently. So my goal is local distribution of content. Someone sees in the airport TV from CNN with a breaking news, they should be have at least access to the sound, eventually real-time HD video streaming to their phone at a local distance and also additional web content relating to that news that is constantly aggregating on the Übercaster device for distribution. It is more efficient; people get information quicker and seamlessly.
 
-If you would be interested to knowing more about the Übercaster or have interest in the technology. Please shoot me an email at KJ@EchosDesign.com.
 
-Thanks World!
 
