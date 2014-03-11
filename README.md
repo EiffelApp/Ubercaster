@@ -39,7 +39,7 @@
 
 #### [2000mAh Li-Ion Battery or larger](http://bit.ly/1fn7elZ)
 
-### Esimated Total Development Cost: $151
+### Esimated Hardware Cost: $150
 
 
 
