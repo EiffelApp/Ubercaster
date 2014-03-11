@@ -1,10 +1,11 @@
 ##Übercaster: A Real-Time Audio Broadcaster WiFi Hotspot
 
+###The Team
 
-####K.J Yoo
-####Roman Belda 
-####Emanuel Aguilera Martí 
-####Artem Bagautdinov 
+* Roman Belda 
+* Emanuel Aguilera Martí 
+* Artem Bagautdinov 
+* K.J Yoo
 
 ##Inception
 
