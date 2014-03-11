@@ -1,10 +1,10 @@
 ##Übercaster: A Real-Time Audio Broadcaster WiFi Hotspot
 
 
-####K.J Yoo <KJ@EchosDesign.com>, 
-####Roman Belda <robelor@gmail.com>
-####Emanuel Aguilera Martí <emaguimar@hotmail.com>
-####Artem Bagautdinov <artem.bagautdinov@gmail.com>
+####K.J Yoo
+####Roman Belda 
+####Emanuel Aguilera Martí 
+####Artem Bagautdinov 
 
 ##Inception
 
@@ -37,13 +37,9 @@ So how many clients can the Übercaster support? We have tested up to 25 clients
 ##The Application
 
 Übercaster started with a simple question: How can individuals have complete freedom and seamless control what they hear in a local surrounding? Or how can individuals have complete freedom to seamlessly and easily broadcast sound to audience members in the local surrounding? 
-
 It turns out that place like gyms, restaurants, tour guides, music venues, sports bars and airports have been thinking of innovative ways to broadcast sound. There have been attempted solutions using FM and Infrared, however it didn’t prove to be practical, it is expensive and complicating to use.
-
 From the very beginning, mobile was at the heart of the product. Currently 65% of all mobile phone users in the U.S use a smartphone. It is widely adopted and it is growing at a staggering rate. So everyone essentially has Übercaster receiver devices already. 
-
 Imagine going into a sports bar and listening to any TV or tuning into the breaking news while you wait for the flight to Frankfurt or listening with perfect clarity to the street musician playing guitar 50 feet away or experiencing a tour of Rome through your smartphone.
-
 Übercaster not only offers a richer and higher audio quality than current products, but also it makes an incredible seamless experience for both users and listeners. Übercaster simplifies, reduces and enhances local audio broadcasting into just a single device. 
 
 ##The Vision 
