@@ -17,7 +17,6 @@
 * **Max Functioning Range: 75ft**
 * **Dual-Band**
 * **Mobile Apps are Small and Easily Integrateable (Static Library included)**
-* **Power Consumption in Idle mode: 1.7W**
 * **Power Consumption in Broadcasting mode: 2.6W**
 
 ### Hardware Requirement:
