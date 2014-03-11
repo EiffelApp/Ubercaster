@@ -41,12 +41,6 @@
 
 ### Esimated Total Development Cost: $151
 
-##About Echos Design
-
-At Echos Design, we are always looking to challenge the status quo. We ask ourselves frequently: Why are things designed a certain way and more importantly can we improve it? We take our design inspiration from the design philosophy of Dieter Rams’s 10 Principle of Good Design. We simply want Good Design. Currently we have been working on a Patent Pending product called the Übercaster. it enhances and simplifies local broadcasting. The industry standard medium has been using FM, we want to make it WiFi. No need for dedicated and expensive FM devices, just use your smartphone!
-
-We created a hardware device that broadcasts in Real-Time anything that you plug into the audio input via WiFi and made apps that you can use your own smartphone device to tune in on. Think about it: Freely broadcast anywhere to anyone audio Live.
-
 
 
 
