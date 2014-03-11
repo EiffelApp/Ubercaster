@@ -1,4 +1,4 @@
-## Übercaster: Real-Time Audio Broadcaster Hotspot 
+## Übercaster: Real-Time Audio Broadcaster WiFi Hotspot 
 ### *Easily Broadcast Any Audio to iPhone or Android devices in the Local Area!*
 
 ### **Applications:** 
