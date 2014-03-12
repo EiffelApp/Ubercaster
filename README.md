@@ -36,6 +36,8 @@
 
 #### [OMTP Standard headset](http://bit.ly/1dMDwKy)
 
+#### [3.5mm Stereo Socket](http://www.ebay.com/itm/5pcs-3-5mm-PCB-Mount-Stereo-Socket-Female-Switched-Audio-Panel-Chassis-Jack-1-8-/151234826935?pt=Guitar_Accessories&hash=item23364c52b7)
+
 ### To make it portable, purchase a DC/DC converter and Li-Ion/Polymer Battery 
 
 #### [Adjustable DC/DC converter](http://bit.ly/PoMntz)
