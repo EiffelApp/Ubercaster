@@ -34,7 +34,7 @@
 
 #### [Acara 2.4/5.2 Ghz Internal Blade Antenna (2X)](http://bit.ly/PoLKA9)
 
-#### [OMTP type headset](http://bit.ly/1dMDwKy)
+#### [OMTP Standard headset](http://bit.ly/1dMDwKy)
 
 ### To make it portable, purchase a DC/DC converter and Li-Ion/Polymer Battery 
 
