@@ -2,6 +2,12 @@
 
 ![Ubercaster](http://i.imgur.com/OXULcMG.jpg)
 
+##Modifying the OMTP Standard Headset to Support Any Audio Signal
+* Apple headsets follows the CTIA standard while Samsung, LG, Blackberry and ODROID follow the OMTP standard.
+![Comparison](http://i.imgur.com/QF6MqAl.png)
+* If you want to use any 3.5mm audio cable to input sound into the Ubercaster. You must do a bit of wire cutting and soldering. Just cut the OMTP standard headset, find the white and ground wire, solder onto the 3.5mm stereo socket accordingly to the picture.
+![Comparison](http://i.imgur.com/syYe2SM.jpg)
+
 ##Flashing the Ubercaster Linux Image
 
 * [Download the Ubercaster Odroid U3 Linux Image](https://docs.google.com/file/d/0B_teFC78aOcaVEZyQ1U3ZXZwQ1U/edit)
@@ -13,7 +19,7 @@ iface eth0 inet dhcp")
 
 * SSH login into the Odroid (ID:root PW:odroid)
  
-##Setting up the environment to run the Ubercaster Stream Application
+##Setting Up the Environment
 ####Assuming you have ssh into the Odroid U3
 
 * Check `alsamixer` and scroll left to find `The Left ADC Mixer MIC1` Make sure this is on!
