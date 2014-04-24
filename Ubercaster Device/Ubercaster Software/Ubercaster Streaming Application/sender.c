@@ -4,6 +4,7 @@
  * audio with OPUS and then do UDP multicasting of raw OPUS packets.
  *
  * Author: Artem Bagautdinov, <artem.bagautdinov@gmail.com>
+ *	   KJ Yoo,            <kyungjindaum@gmail.com>
  */
 
 #include <assert.h>
