@@ -3,6 +3,7 @@
  *                         Consumer Circular Queue
  *
  * Author: Artem Bagautdinov, <artem.bagautdinov@gmail.com>
+ *	   KJ Yoo,            <kyungjindaum@gmail.com>
  */
 
 #include <assert.h>
