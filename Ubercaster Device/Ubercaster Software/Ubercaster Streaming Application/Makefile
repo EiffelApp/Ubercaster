@@ -2,7 +2,7 @@
 # Makefile for Ubercaster sender and receiver applications
 #
 # Author: Artem Bagautdinov, <artem.bagautdinov@gmail.com>
-#
+#	   KJ Yoo,            <kyungjindaum@gmail.com>
 #
 
 CC=gcc
