@@ -51,7 +51,8 @@ Also did someone say Silent Disco? Since the audio is synced, you can host a coo
 
 ### Esimated Hardware Cost: $150
 
-
+### License
+The content of this project itself is licensed under the Creative Commons Attribution 3.0 license, and the underlying source code used to format and display that content is licensed under the MIT license.
 
 
 
