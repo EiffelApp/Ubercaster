@@ -1,5 +1,11 @@
 ## Übercaster: Real-Time Audio Broadcaster Hotspot 
 
+### **What is this???:**
+Have you ever been at an airport, gym, or a sports bar, and you couldn't hear the TV? Well hooking the Ubercaster to the back of the TVs, one can stream the TV audio content directly onto one's smartphone device and you can listen to it! 
+You can also plug in your instrument devices directly to the device to stream your music; perhaps no more carrying around your amp to busk.
+Also did someone say Silent Disco? Since the audio is synced, you can host a cool silent disco party anywhere. Just plug the output audio from the turntable to the Ubercaster. Let your friends know how to connect and BOOM, you have a party! (Caution: The Audio sync may vary few ten milliseconds from device to devicel depending on model and OS particularly) 
+
+
 ![alt text](http://i.imgur.com/hTGplOc.jpg)
 
 
